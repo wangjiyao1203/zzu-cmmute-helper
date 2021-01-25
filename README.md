@@ -8,7 +8,7 @@
 经纬度信息在script.sh里面可以修改jingdu= weidu=（在百度上搜索你所处地经纬度填在上面
 默认的信息均为否，地市位于河南省.郑州市.金水区，经纬度位于经度113.64纬度34.71。
 ---
-当邮箱收到Github的邮件的时候，如果标题是“THE GITHUB ACTIONS CLOCK BOT WORKFLOW"开头的，应该是workflow超过60天了，需要在Actions里，Github Actions Clock Bot里观察是否又黄色提示框，需要在其中重新启用workflow
+当邮箱收到Github的邮件的时候，如果标题是“THE GITHUB ACTIONS CLOCK BOT WORKFLOW"开头的，应该是workflow超过60天了，需要在Actions里，Github Actions Clock Bot里观察是否有黄色提示框，需要在其中重新启用workflow
 ## ❗功能
 使用Actions执行脚本，每天4点定时签到，无需手动运行。模拟手动操作，防止登录失效。
 
